@@ -1,0 +1,8 @@
+tracking.server.com
+analytics.google.com
+pixel.facebook.com
+EO
+cat > Go-server/data/filters/tracking.txt << 'EOF'
+tracking.server.com
+analytics.google.com
+pixel.facebook.com

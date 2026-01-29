@@ -1,0 +1,5 @@
+example.com
+adclick.g.doubleclick.net
+ads.youtube.com
+tracker.facebook.com
+log.spotify.com
